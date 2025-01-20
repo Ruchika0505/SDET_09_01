@@ -1,0 +1,29 @@
+2024-11-19 17:58:10,558 :INFO : test_logging :Information statement
+2024-11-19 17:58:10,558 :WARNING : test_logging :Something is in warning mode
+2024-11-19 17:58:10,558 :ERROR : test_logging :A Major error has happend
+2024-11-19 17:58:10,559 :CRITICAL : test_logging :Critical issue
+2024-11-19 17:59:03,597 :CRITICAL : test_logging :Critical issue
+2024-11-19 17:59:37,427 :DEBUG : test_logging :A debug statement is executed
+2024-11-19 17:59:37,427 :INFO : test_logging :Information statement
+2024-11-19 17:59:37,428 :DEBUG : test_logging :A debug statement is executed
+2024-11-19 17:59:37,428 :WARNING : test_logging :Something is in warning mode
+2024-11-19 17:59:37,428 :ERROR : test_logging :A Major error has happend
+2024-11-19 17:59:37,428 :CRITICAL : test_logging :Critical issue
+2025-01-08 11:50:59,368 :DEBUG : test_logging :A debug statement is executed
+2025-01-08 11:50:59,379 :INFO : test_logging :Information statement
+2025-01-08 11:50:59,379 :DEBUG : test_logging :A debug statement is executed
+2025-01-08 11:50:59,379 :WARNING : test_logging :Something is in warning mode
+2025-01-08 11:50:59,379 :ERROR : test_logging :A Major error has happend
+2025-01-08 11:50:59,380 :CRITICAL : test_logging :Critical issue
+2025-01-08 11:59:45,388 :DEBUG : test_logging :A debug statement is executed
+2025-01-08 11:59:45,388 :INFO : test_logging :Information statement
+2025-01-08 11:59:45,388 :DEBUG : test_logging :A debug statement is executed
+2025-01-08 11:59:45,389 :WARNING : test_logging :Something is in warning mode
+2025-01-08 11:59:45,389 :ERROR : test_logging :A Major error has happend
+2025-01-08 11:59:45,389 :CRITICAL : test_logging :Critical issue
+2025-01-09 16:44:56,298 :WARNING : test_logging :Something is in warning mode
+2025-01-09 16:44:56,314 :ERROR : test_logging :A Major error has happend
+2025-01-09 16:44:56,314 :CRITICAL : test_logging :Critical issue
+2025-01-13 09:53:54,064 :WARNING : test_logging :Something is in warning mode
+2025-01-13 09:53:54,079 :ERROR : test_logging :A Major error has happend
+2025-01-13 09:53:54,079 :CRITICAL : test_logging :Critical issue

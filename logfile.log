@@ -1,0 +1,18 @@
+2025-01-07 17:40:12,728 :DEBUG : test_logging :A debug statement is executed
+2025-01-07 17:40:12,730 :INFO : test_logging :Information statement
+2025-01-07 17:40:12,730 :DEBUG : test_logging :A debug statement is executed
+2025-01-07 17:40:12,730 :WARNING : test_logging :Something is in warning mode
+2025-01-07 17:40:12,730 :ERROR : test_logging :A Major error has happend
+2025-01-07 17:40:12,730 :CRITICAL : test_logging :Critical issue
+2025-01-07 17:42:48,744 :DEBUG : test_logging :A debug statement is executed
+2025-01-07 17:42:48,744 :INFO : test_logging :Information statement
+2025-01-07 17:42:48,744 :DEBUG : test_logging :A debug statement is executed
+2025-01-07 17:42:48,744 :WARNING : test_logging :Something is in warning mode
+2025-01-07 17:42:48,745 :ERROR : test_logging :A Major error has happend
+2025-01-07 17:42:48,745 :CRITICAL : test_logging :Critical issue
+2025-01-08 11:59:28,411 :DEBUG : test_logging :A debug statement is executed
+2025-01-08 11:59:28,422 :INFO : test_logging :Information statement
+2025-01-08 11:59:28,422 :DEBUG : test_logging :A debug statement is executed
+2025-01-08 11:59:28,422 :WARNING : test_logging :Something is in warning mode
+2025-01-08 11:59:28,422 :ERROR : test_logging :A Major error has happend
+2025-01-08 11:59:28,424 :CRITICAL : test_logging :Critical issue
